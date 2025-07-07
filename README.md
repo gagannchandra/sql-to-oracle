@@ -1,4 +1,4 @@
-# Factory Database Schema Conversion Project
+# Database Schema Conversion Project
 
 ## Overview
 This project converts a MySQL-style factory database schema to an Oracle-compatible schema, following best practices for Oracle database design. The schema models a factory system with tables for factories, machines, workers, and products, and includes sample data for testing.
